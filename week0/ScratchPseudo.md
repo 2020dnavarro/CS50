@@ -1,7 +1,7 @@
 # Scratch Project
 
-**This is bolded**
-*This is italicized*
+**This is bolded** <br>
+*This is italicized* <br>
 ~~Strikenthrough~~
 
 numbered list
