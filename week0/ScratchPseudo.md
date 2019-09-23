@@ -31,7 +31,7 @@ When Up Arrow is pressed <br>
   Wait .1 second <br>
   Return to Normal Costume <br>
 
-When I receive "Game Over"
+When I receive "Game Over" <br>
   Rotate Downward <br>
   Wait 5 seconds <br>
   Hide <br>
